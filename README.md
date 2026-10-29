@@ -9,13 +9,14 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Radix UI](https://img.shields.io/badge/Radix_UI-Primitives-161618?style=for-the-badge&logo=radix-ui&logoColor=white)](https://www.radix-ui.com/)
-[![dnd--kit](https://img.shields.io/badge/@dnd--kit-Drag_&_Drop-FF5722?style=for-the-badge)](https://dndkit.com/)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live_Demo-0070F3?style=for-the-badge&logo=vercel)](https://workspace-pro-chi.vercel.app)
 
 <p align="center">
   A state-of-the-art, feature-dense project and workspace management frontend engineered with <strong>Next.js App Router</strong>, <strong>React 19</strong>, <strong>shadcn/ui</strong>, and <strong>Tailwind CSS</strong>. Crafted as a premier showcase of modern UI engineering, micro-interactions, responsive design systems, and multi-view data visualization.
 </p>
 
 <p align="center">
+  <a href="https://workspace-pro-chi.vercel.app" target="_blank"><strong>🌐 Live Demo</strong></a> •
   <a href="#-key-features"><strong>Explore Features</strong></a> •
   <a href="#-architecture--component-breakdown"><strong>Architecture</strong></a> •
   <a href="#-ui-design-system--interaction-patterns"><strong>Design System</strong></a> •

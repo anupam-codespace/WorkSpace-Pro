@@ -31,3 +31,4 @@ next-env.d.ts
 .windsurf/
 *.code-workspace
 .DS_Store
+.env*.local
