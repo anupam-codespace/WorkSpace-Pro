@@ -1,7 +1,6 @@
 <div align="center">
 
 # WorkSpace Pro
-
 ### High-Performance Project and Workspace Management Platform
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.0-black?style=flat-square&logo=next.js)](https://nextjs.org/)
