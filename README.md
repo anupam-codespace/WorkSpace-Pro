@@ -174,8 +174,8 @@ WorkSpace-Pro/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/anupam-codespace/WorkSpace-Pro-.git
-   cd WorkSpace-Pro-
+   git clone https://github.com/anupam-codespace/WorkSpace-Pro.git
+   cd WorkSpace-Pro
    ```
 
 2. **Install project dependencies:**
@@ -208,7 +208,7 @@ npm start
 
 - **Email**: [anupamsaha.work@gmail.com](mailto:anupamsaha.work@gmail.com)
 - **GitHub**: [@anupam-codespace](https://github.com/anupam-codespace)
-- **Repository**: [WorkSpace-Pro-](https://github.com/anupam-codespace/WorkSpace-Pro-)
+- **Repository**: [WorkSpace-Pro](https://github.com/anupam-codespace/WorkSpace-Pro)
 
 ---
 
