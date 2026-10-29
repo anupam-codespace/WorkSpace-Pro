@@ -186,19 +186,5 @@ npm start
 ```
 
 ---
-
-## Author & Contact
-
-**Anupam Saha**  
-Front-End & UI/UX Developer  
-
-- **Email**: [anupamsaha.work@gmail.com](mailto:anupamsaha.work@gmail.com)
-- **GitHub**: [@anupam-codespace](https://github.com/anupam-codespace)
-- **Live Demo**: [https://workspace-pro-chi.vercel.app](https://workspace-pro-chi.vercel.app)
-- **Repository**: [https://github.com/anupam-codespace/WorkSpace-Pro](https://github.com/anupam-codespace/WorkSpace-Pro)
-
 ---
 
-## License
-
-This project is open-source and distributed under the terms of the [MIT License](LICENSE).
