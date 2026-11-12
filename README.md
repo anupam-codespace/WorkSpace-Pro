@@ -29,6 +29,7 @@
 
 ## Overview
 
+
 WorkSpace Pro is a full-featured frontend dashboard engineered for cross-functional teams, engineering leads, and project managers. The platform consolidates roadmap planning, weekly task scheduling, client relationship management, and project specification authoring into a unified, responsive single-page architecture.
 
 Rather than relying on static placeholders, WorkSpace Pro implements complete end-to-end user workflows: interactive multi-view representations of project data, physics-based drag-and-drop task sorting, rich-text WYSIWYG specification editing, slide-over detail sheets, multi-faceted filtering, and dark/light mode personalization.
