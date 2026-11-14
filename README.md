@@ -35,7 +35,6 @@ WorkSpace Pro is a full-featured frontend dashboard engineered for cross-functio
 Rather than relying on static placeholders, WorkSpace Pro implements complete end-to-end user workflows: interactive multi-view representations of project data, physics-based drag-and-drop task sorting, rich-text WYSIWYG specification editing, slide-over detail sheets, multi-faceted filtering, and dark/light mode personalization.
 
 ---
-
 ## Frontend Technical Specifications
 
 The application is built on modern web standards with an emphasis on performance, type safety, component decoupling, and accessibility.
